@@ -684,7 +684,7 @@ header .navbar a:hover{
 main {
     padding: 20px;
     margin: 20px auto;
-    max-width: 85%;
+    max-width: 90%;
     height: auto;
     background-color: var(--pastalblue);
     border-radius: 8px;
